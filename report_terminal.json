@@ -1,0 +1,21 @@
+{
+  "total_rows_input": 6,
+  "total_rows_cleaned": 4,
+  "duplicates_removed": 2,
+  "ghost_transactions_removed": 0,
+  "currency_symbols_found": 2,
+  "invalid_dates_fixed": 3,
+  "date_columns": [
+    "date"
+  ],
+  "amount_columns": [
+    "amount"
+  ],
+  "output_columns": [
+    "date",
+    "description",
+    "amount"
+  ],
+  "input_csv_path": "sample_data/messy_transactions.csv",
+  "output_csv_path": "sample_data/cleaned_terminal.csv"
+}
