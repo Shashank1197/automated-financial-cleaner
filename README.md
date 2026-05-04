@@ -1,6 +1,6 @@
 # Automated Financial Data Cleaner
 
-Names- Shashank Kumar(SBU221197), Prince Kumar(SBU221186), Prashant Kumar(SBU221886)
+Names- Shashank Kumar(SBU221197), Prince Kumar(SBU221186), Prashant Kumar(SBU221886) ,Anant Kumar(SBU221764)
 
 ## Screenshots
 
