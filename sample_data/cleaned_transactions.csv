@@ -1,6 +1,29 @@
-date,description,amount
-2026-04-16,Coffee Shop,1200
-2026-04-17,Groceries,45.5
-,Bad Date,10
-2026-04-18,Empty Amount,
-
+Date,Description,Amount
+2026-04-12,coffee shop,120
+2026-04-13,uber ride,14.5
+2026-04-13,Uber Ride,1210
+2026-04-14,Grocery Store,2345
+2026-04-15,ONLINE SUBSCRIPTION,9.99
+,Electricity Bill,800
+2026-04-16,ELECTRICITY BILL,800
+2026-04-16,netflix subscription,499
+2026-04-17,petrol Pump,1560
+2026-04-18,medical store,235.5
+2026-04-19,restaurant,45
+2026-04-20,Book Store,780
+2026-04-20,Book Store,
+2026-04-21,Taxi,12.75
+2026-04-21,TAXI,999
+2026-04-22,random entry,
+2026-04-22,random entry,340
+2026-04-23,Online Course,120
+2026-04-23,online course,9999
+2026-04-24,recharge,199
+2026-04-25,,350
+2026-04-25,UNKNOWN,350
+2026-04-26,gym membership,1299
+2026-04-27,fuel,1600
+2026-04-28,random text $$$,250
+2026-04-28,Random Text,250
+2026-04-29,cab ride,675
+2026-04-30,mobile bill,999

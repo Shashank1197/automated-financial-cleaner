@@ -1,5 +1,12 @@
 # Automated Financial Data Cleaner
 
+Names- Shashank Kumar(SBU221197), Prince Kumar(SBU221186), Prashant Kumar(SBU221886)
+
+## Screenshots
+
+![Screenshot 1](screenshots/Screenshot%202026-05-04%20103904.png)
+![Screenshot 2](screenshots/Screenshot%202026-05-04%20104004.png)
+
 ## Overview
 This project cleans messy financial CSVs and exports the cleaned data into SQL (SQLite or PostgreSQL).
 
